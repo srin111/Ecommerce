@@ -1,0 +1,14 @@
+[
+  {
+    "number": "{{uuid}}",
+    "expiry": "12/25",
+    "cvv": "123",
+    "name": "John Doe"
+  },
+  {
+    "number": "{{uuid}}",
+    "expiry": "11/26",
+    "cvv": "456",
+    "name": "Jane Smith"
+  }
+]
